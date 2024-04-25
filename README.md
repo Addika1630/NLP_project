@@ -177,7 +177,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Addisu Mulat - [@twitter](https://twitter.com/AddisuMulat2) - addisu05mulat@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Addika1630/Integrated_project)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/Addika1630/NLP_project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -204,16 +204,16 @@ I also want to thank the open-source community for their contributions and suppo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Addika1630/Integrated_project.svg?style=for-the-badge
-[contributors-url]: https://github.com/Addika1630/Integrated_project/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Addika1630/Integrated_project.svg?style=for-the-badge
-[forks-url]: https://github.com/Addika1630/Integrated_project/network/members
-[stars-shield]: https://img.shields.io/github/stars/Addika1630/Integrated_project.svg?style=for-the-badge
-[stars-url]: https://github.com/Addika1630/Integrated_project/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Addika1630/Integrated_project.svg?style=for-the-badge
-[issues-url]: https://github.com/Addika1630/Integrated_project/issues
-[license-shield]: https://img.shields.io/github/license/Addika1630/Integrated_project.svg?style=for-the-badge
-[license-url]: https://github.com/Addika1630/Integrated_project/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/Addika1630/NLP_project.svg?style=for-the-badge
+[contributors-url]: https://github.com/Addika1630/NLP_project/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Addika1630/NLP_project.svg?style=for-the-badge
+[forks-url]: https://github.com/Addika1630/NLP_project/network/members
+[stars-shield]: https://img.shields.io/github/stars/Addika1630/NLP_project.svg?style=for-the-badge
+[stars-url]: https://github.com/Addika1630/NLP_project/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Addika1630/NLP_project.svg?style=for-the-badge
+[issues-url]: https://github.com/Addika1630/NLP_project/issues
+[license-shield]: https://img.shields.io/github/license/Addika1630/NLP_project.svg?style=for-the-badge
+[license-url]: https://github.com/Addika1630/NLP_project/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/addisu-mulat-133838255/
 [product-screenshot]: images/screenshot1.png
