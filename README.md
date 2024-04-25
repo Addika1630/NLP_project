@@ -28,23 +28,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Addika1630/Integrated_project">
+  <a href="https://github.com/Addika1630/NLP_project">
     <img src="images/logo1.PNG" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Integrated Project Maji Ndogo</h3>
+  <h3 align="center">Sentiment Analysis</h3>
 
   <p align="center">
-    Exploratory Data Analysis (EDA) of Maji Ndogo!
+    Financial Sentiment Analysis!
     <br />
-    <a href="https://github.com/Addika1630/Integrated_project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Addika1630/NLP_project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Addika1630/Integrated_project">View Demo</a>
+    <a href="https://github.com/Addika1630/NLP_project">View Demo</a>
     ·
-    <a href="https://github.com/Addika1630/Integrated_project/issues">Report Bug</a>
+    <a href="https://github.com/Addika1630/NLP_project/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Addika1630/Integrated_project/issues">Request Feature</a>
+    <a href="https://github.com/Addika1630/NLP_project/issues">Request Feature</a>
   </p>
 </div>
 
@@ -81,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-  [![Product Name Screen Shot][product-screenshot]](https://github.com/Addika1630/Integrated_project/blob/main/images/screenshot1.png)
+  [![Product Name Screen Shot][product-screenshot]](https://github.com/Addika1630/NLP_project/blob/main/images/screenshot1.png)
 
 In a project centered on Maji Ndogo, I embarked on a comprehensive data analysis journey that encompassed various key aspects:
 
