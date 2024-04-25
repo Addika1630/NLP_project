@@ -83,12 +83,13 @@
 
   [![Product Name Screen Shot][product-screenshot]](https://github.com/Addika1630/NLP_project/blob/main/images/screenshot1.png)
 
-In a project centered on Maji Ndogo, I embarked on a comprehensive data analysis journey that encompassed various key aspects:
+In a project focused on financial sentiment analysis, I embarked on using naive Bayes and SVM models to analyze sentiment in financial data. Here's an overview of the key aspects of the project:
 
-* Beginning with exploratory data analysis (EDA), I delved deep into the dataset to understand its nuances and underlying patterns.
-* Subsequently, I meticulously cleaned the data, addressing missing values and inconsistencies to ensure its integrity.
-* Leveraging Python's powerful data visualization libraries, I crafted compelling visualizations that effectively communicated the dataset's insights.
-* Finally, I designed and implemented a data pipeline to automate data processing tasks, enhancing efficiency and maintaining consistency in data handling   processes.
+* Exploratory Data Analysis (EDA): I began by conducting EDA to understand the financial dataset, including its structure and key features related to sentiment.
+* Data Cleaning: I meticulously cleaned the financial data, addressing issues such as missing values, outliers, and inconsistencies to ensure the integrity of the dataset for analysis.
+* Feature Engineering: I identified and engineered relevant features that could potentially impact sentiment analysis, such as keyword extraction and sentiment lexicons.
+* Model Selection and Training: I selected the naive Bayes and SVM models for sentiment analysis due to their effectiveness in text classification tasks. I trained these models using the cleaned and engineered features.
+* Model Evaluation: I evaluated the performance of the models using metrics such as accuracy, precision, recall, and F1-score to assess their effectiveness in predicting sentiment.
 
 <br>
 
