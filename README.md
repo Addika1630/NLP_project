@@ -81,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-  [![Product Name Screen Shot][product-screenshot]](https://github.com/Addika1630/Integrated_project/blob/main/images/screenshot1.png)
+  [![Product Name Screen Shot][product-screenshot]](https://github.com/Addika1630/NLP_project/blob/main/images/screenshot1.png)
 
 In a project centered on Maji Ndogo, I embarked on a comprehensive data analysis journey that encompassed various key aspects:
 
